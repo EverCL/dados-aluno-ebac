@@ -9,4 +9,7 @@ Dados do aluno
 
 Obrigado!!!
 
+Conclusão da atividade: clonar e modificar arquivo no git hub da aula da Ebac 
 
+
+Everaldo Carlos Luciano
